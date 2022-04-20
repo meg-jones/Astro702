@@ -1,0 +1,43 @@
+# Input file       =  PM0096_02811.dat.fil
+# Candidate        =  4.00ms_Cand
+# Telescope        =  Parkes
+# Epoch_topo       =  51456.196678240740
+# Epoch_bary       =  N/A
+# T_sample         =  0.00025
+# Data Folded      =  8388608
+# Data Avg         =  53.3932150602341 
+# Data StdDev      =  5.20877253762044 
+# Profile Bins     =  16
+# Profile Avg      =  27993377.9375033 
+# Profile StdDev   =  3771.55418420191 
+# Reduced chi-sqr  =  4474.653
+# Prob(Noise)      <  0    
+# Best DM          =  0.000
+# P_topo (ms)      =  4                 +/- 1.29e-08
+# P'_topo (s/s)    =  -0                +/- 4.76e-14
+# P''_topo (s/s^2) =  0                 +/- 1.47e-16
+# P_bary (ms)      =  N/A
+# P'_bary (s/s)    =  N/A
+# P''_bary (s/s^2) =  N/A
+# P_orb (s)        =  N/A
+# asin(i)/c (s)    =  N/A
+# eccentricity     =  N/A
+# w (rad)          =  N/A
+# T_peri           =  N/A
+######################################################
+   0  2.8351e+07
+   1  2.821618e+07
+   2  2.819946e+07
+   3  2.799923e+07
+   4  2.819249e+07
+   5  2.802785e+07
+   6  2.800529e+07
+   7  2.780341e+07
+   8  2.817204e+07
+   9  2.800606e+07
+  10  2.79847e+07
+  11  2.777917e+07
+  12  2.797948e+07
+  13  2.781534e+07
+  14  2.778711e+07
+  15  2.757523e+07
